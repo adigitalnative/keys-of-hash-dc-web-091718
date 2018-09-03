@@ -1,5 +1,7 @@
 class Hash
   def keys_of(arguments*)
-    map
+    map do |key
+      
+    end
   end
 end
